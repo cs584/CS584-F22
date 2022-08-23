@@ -1,3 +1,3 @@
 # CS 584 Machine Learning - Section 03
 
-This repository contains only the slides and the Jupyter notebooks.
+Repository for slides and Jupyter notebooks for CS 584, Section 03, of Illinois Institute of Technology, for Fall 2022.
